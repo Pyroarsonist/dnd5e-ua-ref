@@ -25,7 +25,7 @@
 </script>
 
 <div class="my-4 flex items-center space-x-2 dark:text-stone-100 sm:space-x-4">
-	<h1 class="flex-1 text-sm font-bold uppercase">D&D 5e - Справочник на русском языке</h1>
+	<h1 class="flex-1 text-sm font-bold uppercase">D&D 5e - Довідка українською</h1>
 
 	<button class="flex cursor-pointer" on:click={() => ($toggleAll = !$toggleAll)}>
 		{#if $toggleAll}
