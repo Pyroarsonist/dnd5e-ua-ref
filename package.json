@@ -12,7 +12,7 @@
 		"@fontsource/dm-sans": "^5.0.1",
 		"@iconify-json/game-icons": "^1.1.2",
 		"@iconify-json/lucide": "^1.1.93",
-		"@sveltejs/adapter-auto": "^2.1.0",
+		"@sveltejs/adapter-static": "^2.0.3",
 		"@sveltejs/kit": "^1.18.0",
 		"@vercel/analytics": "^1.0.1",
 		"autoprefixer": "^10.4.14",
