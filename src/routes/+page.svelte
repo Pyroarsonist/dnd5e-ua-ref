@@ -72,7 +72,7 @@
 								type="button"
 								class="inline-flex w-full justify-center rounded-md border border-transparent bg-stone-200 px-4 py-2 text-sm font-medium text-stone-900 hover:bg-stone-300 dark:bg-stone-700 dark:text-stone-100 dark:hover:bg-stone-600"
 								on:click={dialog.close}
-								>Закрыть
+								>Закрити
 							</button>
 						</div>
 					</div></Transition

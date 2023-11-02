@@ -1,24 +1,24 @@
-# Справочник по D&D 5e на русском языке
+# Довідник з D&D 5e українською мовою
 
-Приложение с краткими правилами Dungeons & Dragons 5e.
+Додаток із короткими правилами Dungeons & Dragons 5e.
 
-**Вебсайт:** [https://5e.ruleplaying.com/](https://5e.ruleplaying.com/)
+**Вебсайт:** [https://pyroarsonist.github.io/dnd5e-ua-ref](https://pyroarsonist.github.io/dnd5e-ua-ref)
 
 [Svelte](https://svelte.dev/) + [TailwindCSS](https://tailwindcss.com/) = ❤️
 
-### Установка
+### Встановлення
 
 ```bash
 npm install
 ```
 
-### Разработка
+### Розробка
 
 ```bash
 npm run dev
 ```
 
-### Компиляция
+### Компіляція
 
 ```bash
 npm run build
