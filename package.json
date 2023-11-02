@@ -1,6 +1,6 @@
 {
-	"name": "@phenomen/dnd5e-ru-ref",
-	"version": "2.9",
+	"name": "dnd5e-ua-ref",
+	"version": "2.9.1",
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build",
