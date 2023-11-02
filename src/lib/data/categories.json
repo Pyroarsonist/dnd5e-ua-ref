@@ -1,86 +1,86 @@
 [
 	{
 		"dataset": "/src/lib/data/ps/movement.json",
-      "title": "Рух",
-      "subtitle": "обмежений швидкістю",
+		"title": "Рух",
+		"subtitle": "обмежений швидкістю",
 		"color": "g-stone"
 	},
 	{
 		"dataset": "/src/lib/data/ps/action.json",
-      "title": "Дії",
-      "subtitle": "1 за хід",
+		"title": "Дії",
+		"subtitle": "1 за хід",
 		"color": "g-red"
 	},
 	{
 		"dataset": "/src/lib/data/ps/bonusaction.json",
-      "title": "Бонусні дії",
-      "subtitle": "максимум 1 за хід",
+		"title": "Бонусні дії",
+		"subtitle": "максимум 1 за хід",
 		"color": "g-orange"
 	},
 	{
 		"dataset": "/src/lib/data/ps/reaction.json",
-      "title": "Реакції",
-      "subtitle": "1 до вашого наступного ходу",
+		"title": "Реакції",
+		"subtitle": "1 до вашого наступного ходу",
 		"color": "g-amber"
 	},
 	{
 		"dataset": "/src/lib/data/ps/freeaction.json",
-      "title": "Вільні дії",
+		"title": "Вільні дії",
 		"color": "g-yellow"
 	},
 	{
 		"dataset": "/src/lib/data/ps/condition.json",
-      "title": "Стани",
+		"title": "Стани",
 		"color": "g-lime"
 	},
 	{
 		"dataset": "/src/lib/data/ps/environment.json",
-      "title": "Навколишнє середовище та сприйняття",
+		"title": "Навколишнє середовище та сприйняття",
 		"color": "g-green"
 	},
 	{
 		"dataset": "/src/lib/data/ps/hitpoint.json",
-      "title": "Хіти, смерть та відпочинок",
+		"title": "Хіти, смерть та відпочинок",
 		"color": "g-emerald"
 	},
 	{
 		"dataset": "/src/lib/data/ps/damage.json",
-      "title": "Урон і атака",
+		"title": "Урон і атака",
 		"color": "g-teal"
 	},
 	{
 		"dataset": "/src/lib/data/ps/abilityscore.json",
-      "title": "Характеристики і навики",
+		"title": "Характеристики і навики",
 		"color": "g-cyan"
 	},
 	{
 		"dataset": "/src/lib/data/ps/equipment.json",
-      "title": "Інструменти та зброя",
+		"title": "Інструменти та зброя",
 		"color": "g-sky"
 	},
 	{
 		"dataset": "/src/lib/data/ps/spellcasting.json",
-      "title": "Заклинання",
+		"title": "Заклинання",
 		"color": "g-blue"
 	},
 	{
 		"dataset": "/src/lib/data/ps/travel.json",
-      "title": "Подорож",
+		"title": "Подорож",
 		"color": "g-indigo"
 	},
 	{
 		"dataset": "/src/lib/data/ps/multiclassing.json",
-      "title": "Мультикласування",
+		"title": "Мультикласування",
 		"color": "g-violet"
 	},
 	{
 		"dataset": "/src/lib/data/ps/language.json",
-      "title": "Мови",
+		"title": "Мови",
 		"color": "g-purple"
 	},
 	{
 		"dataset": "/src/lib/data/ps/xp.json",
-      "title": "Досвід",
+		"title": "Досвід",
 		"color": "g-fuchsia"
 	}
 ]
