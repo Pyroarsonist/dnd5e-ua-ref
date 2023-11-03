@@ -1,6 +1,6 @@
 {
 	"name": "dnd5e-ua-ref",
-	"version": "2.9.1",
+	"version": "2.9.2",
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build",
