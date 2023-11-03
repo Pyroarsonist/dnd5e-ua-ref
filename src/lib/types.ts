@@ -3,6 +3,7 @@ export type CategoryType = {
 	title: string;
 	subtitle?: string;
 	color: string;
+	icon: string;
 };
 
 export type DatasetsType = {

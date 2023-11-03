@@ -4,7 +4,6 @@
 
 **Вебсайт:** [https://pyroarsonist.github.io/dnd5e-ua-ref](https://pyroarsonist.github.io/dnd5e-ua-ref)
 
-
 ### Встановлення
 
 ```bash
