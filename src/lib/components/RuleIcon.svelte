@@ -1,5 +1,9 @@
 <script lang="ts">
 	export let icon: string;
+	export let size: string = 'big';
+
+	const classMap = { big: 'h-14 w-14', small: 'h-8 w-8' };
+	const className = classMap[size] ?? classMap?.big;
 
 	const icons = {
 		'acid': IconGameIconsAcid,
@@ -135,6 +139,19 @@
 		'meat-cleaver': IconGameIconsMeatCleaver,
 		'minions': IconGameIconsMinions,
 		'mountain-climbing': IconGameIconsMountainClimbing,
+		'move': IconGameIconsMove,
+		'riposte': IconGameIconsRiposte,
+		'extra-time': IconGameIconsExtraTime,
+		'slap': IconGameIconsSlap,
+		'silenced': IconGameIconsSilenced,
+		'world': IconGameIconsWorld,
+		'broad-dagger': IconGameIconsBroadDagger,
+		'skills': IconGameIconsSkills,
+		'switch-weapon': IconGameIconsSwitchWeapon,
+		'spell-book': IconGameIconsSpellBook,
+		'minotaur': IconGameIconsMinotaur,
+		'talk': IconGameIconsTalk,
+		'stairs': IconGameIconsStairs,
 		'night-vision': IconGameIconsNightVision,
 		'nun-face': IconGameIconsNunFace,
 		'octogonal-eye': IconGameIconsOctogonalEye,
@@ -236,4 +253,4 @@
 	};
 </script>
 
-<svelte:component this={icons[icon]} class="h-14 w-14 p-1" />
+<svelte:component this={icons[icon]} class="{className} p-1" />

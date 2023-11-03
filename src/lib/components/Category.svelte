@@ -31,6 +31,9 @@
 		use:categoryDisclosure.button
 		class="{category.color} flex w-full items-center rounded border-2 bg-white p-2 text-left dark:bg-stone-900 md:p-4"
 	>
+		<div class="mr-2 flex-shrink-0 {category.color} flex h-8 w-8 items-center">
+			<RuleIcon icon={category.icon} size="small" />
+		</div>
 		<div class="flex-1 items-center text-stone-900 dark:text-stone-100">
 			<span class="mr-2 text-sm font-medium md:text-base">{category.title}</span>
 			{#if category.subtitle}
